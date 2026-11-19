@@ -25,7 +25,7 @@ This project implements an industrial-grade automated sorting line integrating *
 ---
 
 ## 🔌 PLC I/O Mapping (`Siemens S7-300` ↔ `Factory I/O`)
-![Factory I/O Driver Mapping](assets/io_mapping.png)
+![Factory I/O 3D Sorting Line](assets/factory_io_scene.png)
 
 | Input Address | Tag / Device | Output Address | Tag / Device |
 | :---: | :--- | :---: | :--- |
@@ -48,7 +48,7 @@ This project implements an industrial-grade automated sorting line integrating *
 
 | Live Co-Simulation (TIA Portal + Factory I/O) | Ladder Logic Pusher Control (Networks 4–5) |
 | :---: | :---: |
-| ![Live Co-Simulation](assets/live_simulation.jpg) | ![Ladder Logic](assets/ladder_logic.png) |
+| ![Live Co-Simulation](assets/live_simulation.png) | ![Ladder Logic](assets/adder_logic.png) |
 
 ---
 
